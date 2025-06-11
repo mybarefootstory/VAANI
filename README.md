@@ -341,15 +341,6 @@ braille_to_text_mapping = {
 }
 ```
 
-#### Model Selection
-
-To use a different image captioning model, modify `image_processing.py`:
-
-```python
-processor = BlipProcessor.from_pretrained("your-model-name")
-model = BlipForConditionalGeneration.from_pretrained("your-model-name")
-```
-
 ## 🐛 Troubleshooting
 
 ### Common Issues and Solutions
