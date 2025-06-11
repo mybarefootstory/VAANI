@@ -1,0 +1,13 @@
+gtts
+googletrans
+streamlit
+sounddevice
+soundfile
+transformers
+pdf2image
+pytesseract
+Pillow
+streamlit-option-menu
+PyPDF2
+SpeechRecognition
+PyAudio
